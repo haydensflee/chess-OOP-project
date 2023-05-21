@@ -5,6 +5,7 @@ Objective is to 'kill' target pieces. User interacts by typing numbers correspon
 Features a simple text-based GUI.
 
 Compile: g++ bishop.h bishop.cpp chess.h chess.cpp pawn.h pawn.cpp piece.h piece.cpp rook.h rook.cpp target.h target.cpp main.cpp
+
 Run: ./a.out
 
 **Demo screenshots**
