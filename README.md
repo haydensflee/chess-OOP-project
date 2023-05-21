@@ -2,7 +2,10 @@
 Personal project demonstrating object-oriented programming techniques including inheritance, polymorphism, and abstract classes.
 Due to time constraints, project scope was limited to a single player mode with bishop, rook, and pawn pieces.
 Objective is to 'kill' target pieces. User interacts by typing numbers corresponding to their choices to manipulate the chess board.
-Features a simple text-based GUI:
+Features a simple text-based GUI.
+
+Compile: g++ bishop.h bishop.cpp chess.h chess.cpp pawn.h pawn.cpp piece.h piece.cpp rook.h rook.cpp target.h target.cpp main.cpp
+Run: ./a.out
 
 **Demo screenshots**
 ![image](https://github.com/haydensflee/chess-OOP-project/assets/89950637/5398299b-5171-4f31-8561-a9ee8f2a9c41)
