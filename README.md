@@ -5,15 +5,9 @@ Objective is to 'kill' target pieces. User interacts by typing numbers correspon
 Features a simple text-based GUI:
 
 
-![image](https://github.com/haydensflee/chess-OOP-project/assets/89950637/4690f28e-2e85-477a-9e03-912e80e1be61)
+![image](https://github.com/haydensflee/chess-OOP-project/assets/89950637/5398299b-5171-4f31-8561-a9ee8f2a9c41)
 
-Move pawn forward two spaces:
+Move pawn forward two spaces and new board state
 
-![image](https://github.com/haydensflee/chess-OOP-project/assets/89950637/c6bda942-2b23-4634-b981-6242318799e0)
-
-
-New board state:
-
-
-![image](https://github.com/haydensflee/chess-OOP-project/assets/89950637/6bda1dee-2dc0-4edf-8a19-c52c16bbdbf3)
+![image](https://github.com/haydensflee/chess-OOP-project/assets/89950637/59b3c77f-5aa8-4603-9fc6-d4f7ab5e5794)
 
